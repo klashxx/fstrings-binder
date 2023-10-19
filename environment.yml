@@ -3,7 +3,7 @@ channels:
   - damianavila82
   - conda-forge
 dependencies:
-  - python
+  - python=3.10
   - numpy
   - matplotlib
   - pandas
